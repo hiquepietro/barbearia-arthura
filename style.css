@@ -105,7 +105,7 @@ img {
 }
 
 /*Botão agendamento*/
-.botao {
+.botao-agendamento {
     border: 2px solid #a4a4a4;
     padding: 10px 30px;
     color: #a4a4a4;
@@ -114,6 +114,7 @@ img {
     font-size: 1.25em;
     text-align: center;
     margin: 20px auto;
+    text-transform: uppercase;
 }
 
 /*Sobre*/
@@ -337,3 +338,17 @@ galerias-item p {
     color: #7c7c7c;
 }
 
+/*Footer*/
+footer {
+    display: flex;
+    background: #a4a4a4;
+    height: 60px;
+    align-items: center;
+}
+
+footer p {
+    flex: 1;
+    text-align: center;
+    font-size: 1em;
+    color: #000000;
+}
