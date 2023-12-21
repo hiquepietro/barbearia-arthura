@@ -1,15 +1,15 @@
-##Visão Geral:
+<h1 align="center">Visão Geral:</h1>
 
 A Barbearia Arthura e oferece serviços como corte de cabelo, corte de barba, tratamentos capilares e barba completa. Além disso, a documentação contém informações sobre os valores desses serviços e uma galeria de fotos mostrando os cortes realizados. Para agilizar a reserva de um serviço, a barbearia oferece um botão de agendamento que leva o cliente para adquirir o serviço ou pacote promocional desejado.
 
-##Funcionalidades:
+<h1 align="center">Funcionalidades:</h1>
 
 Sobre a Barter Barbearia: uma seção que apresenta brevemente a barbearia e seus serviços.
 Serviços oferecidos: uma lista detalhada dos serviços oferecidos pela barbearia, incluindo o preço de cada serviço.
 Galeria de fotos: uma seção que mostra diferentes cortes realizados na barbearia.
 Botão de agendamento: um botão que permite ao cliente acessar o site oficial da barbearia e fazer um agendamento.
 
-##Tecnologias Utilizadas:
+<h1 align="center">Tecnologias Utilizadas:</h1>
 
 HTML: usado para estruturar o conteúdo da página.
 CSS: usado para estilizar a página e garantir uma aparência consistente em diferentes dispositivos.
