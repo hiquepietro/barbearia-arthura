@@ -1,3 +1,5 @@
 /*criar o click do botao-agendamento*/
 
-const botaoAgendamento = document.querySelector('#botao-agendamento')
+document.getElementById('botaoAgendamento').addEventListener('click', function() {
+    alert('Ir para a pagina de agendamento');
+});
